@@ -2,7 +2,7 @@
 
 @section('title','contact')
 
-@section('css','contact')
+<!-- @section('css','contact') -->
 
 @section('content')
 <h1>Contacts</h1>

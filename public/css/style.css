@@ -1,3 +1,20 @@
 * {
-    background-color: red;
+    margin: 0 ;
+    padding: 0;
+}
+body {
+    background-color: burlywood;
+    height: 90vh;
+}
+
+ul {
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    background-color: #2196f300;
+    justify-content: space-around;
+}
+li {
+    list-style: none;
 }
